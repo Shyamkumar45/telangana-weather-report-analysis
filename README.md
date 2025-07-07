@@ -11,7 +11,6 @@ The Power BI dashboard includes:
 - 📍 Location-based weather comparisons
 - 📈 Time-series analysis using slicers and filters
 
-> 📷 *[Add a screenshot of your dashboard in the `assets/` folder and link it here]*
 
 ## 📁 Files Included
 - `Telangana.pbix` – The main Power BI report file.
