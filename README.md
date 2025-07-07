@@ -34,4 +34,4 @@ Feel free to reach out if you have any questions or suggestions!
 
 ---
 
-Made with ❤️ by [Your Name or GitHub Handle]
+Made with ❤️ by SHYAM
